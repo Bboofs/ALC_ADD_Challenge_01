@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4.0: Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="my_profile_btn_txt">MY PROFILE</string>
+    <string name="about_alc_btn_txt">ABOUT ALC</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="alt_profile_pic">Profile Pic</string>
+    <string name="txt_profile_owner_name">Benson Oluga</string>
+    <string name="txt_profile_other_info">Track:\t\tAndroid\nCountry:\t\tKenya\nEmail:\t\tbboofs@yahoo.com\nPhone Number:\t\t+254772071999\nSlack Username:\t\t@mcoluga</string>
+</resources>
